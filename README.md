@@ -6,7 +6,7 @@
 [![arduino](https://img.shields.io/badge/Arduino--uno-rev--3-purple)](https://store.arduino.cc/products/arduino-uno-rev3)
 [![ahk](https://img.shields.io/badge/AutoHotKey-v1.1.33.1-9cf)](https://www.autohotkey.com/)
 
-
+## This project is no longer recieving updates.  AHK is a windows application and I have not used Windows for a very very long time.
 
 This is a script I put together so that I could use AHK to talk to my Arduino Uno over coms to run an I2C LCD. There is already a project out there for communicating over coms, but it only worked for a preset value in HEX. I updated it with a ascii to hex converter and added all the necessary bits to make it work over COMs.
 
